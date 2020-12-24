@@ -1,0 +1,270 @@
+h2{
+    text-align:center;
+    color: rgb(9, 139, 31);
+}
+.container{
+    width: 80%;
+}
+
+/* ejercicio1 */
+.parrafoEjercicio1{
+    width: 50%;
+    border-style: solid;
+    border-style: dotted;
+}
+.parrafoEjercicio1B{
+    width: 50%;
+    border-style: solid;
+    border-style: dotted;
+    border-color:red;
+}
+/* ejercicio2 */
+.h1Ejercicio2{
+    background-color: lightblue;
+}
+.parrafoEjercicio2{
+    width: 50%;
+}
+.h1Ejercicio2B{
+    background-color: lightblue;
+    width: 30%;
+}
+.parrafoEjercicio2B{
+    width: 50%;
+}
+/* ejercicio3 */
+.parrafoEjercicio3{
+    width: 50%;
+    background-color: lightblue;
+}
+.parrafoEjercicio3B{
+    width: 50%;
+    background-color: lightblue;
+    padding: 30px;
+}
+
+/* ejercicio4 */
+.h1Ejercicio4{
+    background-color: lightblue;
+}
+.h1Ejercicio4B{
+    background-color: lightblue;
+    width: 50%;
+    height: 100px;
+}
+/* ejercicio5 */
+.parrafoEjercicio5{
+    width: 50%;
+    background-color: lightblue;
+}
+.parrafoEjercicio5B{
+    width: 50%;
+    background-color: lightblue;
+    box-sizing: content-box;
+    width: 10%;
+}
+
+/* ejercicio6 */
+.parrafoEjercicio6{
+    width: 50%;
+    background-color: lightblue;
+    box-sizing: content-box;
+    width: 10%;
+}
+.parrafoEjercicio6B{
+    width: 50%;
+    background-color: lightblue;
+    box-sizing: content-box;
+    width: 10%;
+    padding: 5%;
+}
+/* ejercicio7 */
+.parrafoEjercicio7{
+    width: 50%;
+    background-color: lightblue;
+    box-sizing: content-box;
+    width: 10%;
+    padding: 5%;
+}
+.parrafoEjercicio7B{
+    width: 50%;
+    background-color: lightblue;
+    box-sizing: content-box;
+    width: 10%;
+    padding: 5%;
+    border-style: solid;
+    border-color: blue;
+    border-width: 15px;
+}
+/* ejercicio8 */
+.parrafoEjercicio8{
+    width: 50%;
+    background-color: lightblue;
+    box-sizing: content-box;
+    width: 10%;
+    padding: 5%;
+    border-style: solid;
+    border-color: blue;
+    border-width: 15px;
+}
+.parrafoEjercicio8B{
+    width: 50%;
+    background-color: lightblue;
+    box-sizing: content-box;
+    width: 10%;
+    padding: 5%;
+    border-style: solid;
+    border-color: blue;
+    border-width: 15px;
+    position: relative;
+    left: 8em;
+}
+
+/* ejercicio9 */
+.parrafoEjercicio9B{
+    color: red;
+}
+.parrafo2Ejercicio9B{
+    color: red;
+}
+
+/* ejercicio10 */
+.h1Ejercicio10B{
+    text-align:center;
+}
+
+/* ejercicio11 */
+.parrafoEjercicio11B{
+    text-indent: 20px;
+}
+
+/* ejercicio12 */
+.h1Ejercicio12B{
+    text-transform: uppercase;
+}
+.parrafoEjercicio12B{
+    text-transform: capitalize;
+}
+.parrafo2Ejercicio12B{
+    text-transform: capitalize;
+}
+
+/* ejercicio13 */
+.h1Ejercicio13B{
+    font-family: arial;
+}
+.parrafoEjercicio13B{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.parrafo2Ejercicio13B{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* ejercicio14 */
+.h1Ejercicio14B{
+    font-family: arial;
+}
+.parrafoEjercicio14B{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.parrafo2Ejercicio14B{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+/* ejercicio15 */
+.h1Ejercicio15B{
+    font-family: arial;
+    font-size: 50px;
+}
+.parrafoEjercicio15B{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 25px;
+}
+.parrafo2Ejercicio15B{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 25px;
+}
+
+/* ejercicio16 */
+.h1Ejercicio16B{
+    font-family: arial;
+    font-size: 50px;
+}
+.parrafoEjercicio16B{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 25px;
+    font-weight: bold;
+}
+.parrafo2Ejercicio16B{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* ejercicio17 */
+.h1Ejercicio17B{
+    font-family: arial;
+    font-size: 50px;
+}
+.parrafoEjercicio17B{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 35px;
+    font-weight: bold;
+}
+.parrafo2Ejercicio17B{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 35px;
+    font-weight: bold;
+
+}
+
+/* ejercicio18 */
+.titulo{
+    font-family: arial;
+    text-align:center;
+    font-size: 30px;
+}
+.caja{
+    font-family: arial;
+    font-size: 30px;
+    border: 35px solid blue;
+    padding: 5%;
+    height: 100px;
+    width: 250px;
+    text-align:center;
+    margin: auto;
+}
+
+/* ejercicio19 */
+.titulo2{
+    font-family: arial;
+    text-align:center;
+    font-size: 30px;
+}
+.caja-container{
+
+    border: 35px solid blue;
+    padding: 5%;
+    height: 100px;
+    width: 250px;
+    text-align:center;
+    margin: auto;
+}
+.caja2{
+    background-color: lightblue;
+    font-family: arial;
+    text-align:center;
+    margin: auto;
+}
+span{
+    color: rgb(167, 7, 7);
+    font-size: 30px;
+}
